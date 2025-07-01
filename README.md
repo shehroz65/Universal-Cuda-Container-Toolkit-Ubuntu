@@ -4,4 +4,5 @@ A single bash file to install Cuda Toolkit and cuda container toolkit on Ubuntu 
 Make it executable and run:
 
 **chmod +x install_cuda_gpu_stack.sh**
+
 **./install_cuda_gpu_stack.sh**
